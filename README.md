@@ -14,7 +14,4 @@
 
 ![Metrics](https://github.com/MaTY-MT/MaTY-MT/blob/main/github-metrics.svg)
 
-<a href="https://github.com/scr-autopilot/scr-autopilot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scr-autopilot&repo=scr-autopilot&show_owner=true&theme=onedark" />
-</a>
 
