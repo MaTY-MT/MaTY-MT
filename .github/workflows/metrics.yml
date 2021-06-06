@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: MaTY-MT
-          template: markdown
+          template: classic
           base: activity, metadata
           config_timezone: Europe/Budapest
           plugin_activity: yes
