@@ -2368,7 +2368,7 @@
                                     </div>
                                 </div>
                                 <div class="field description">
-                  All-route autopilot for SCR.
+                  🚄 All-route autopilot for SCR.
                 </div>
                                 <div class="field infos">
                                     <div class="language">
@@ -2492,7 +2492,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 10 Jun 2021 20:25:45 (timezone Europe/Budapest) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 10 Jun 2021 21:19:40 (timezone Europe/Budapest) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
