@@ -2404,10 +2404,10 @@
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">add-webserver</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2444aae</span>
-                                        <span class="message">Handle the error when AHK isn't installed</span>
+                                        <span class="sha">#c760378</span>
+                                        <span class="message">Ask to start the webserver</span>
                                     </div>
                                 </div>
                             </section>
@@ -2419,14 +2419,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">scr-autopilot/scr-autopilot-website</span>
+                      Pushed 9 commits in <span class="repo">scr-autopilot/scr-autopilot</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">xyz</span></div>
+                                    <div>on branch <span class="code">add-webserver</span></div>
                                     <div class="commit">
-                                        <span class="sha">#cba80e1</span>
-                                        <span class="message">Update ahksetup.html</span>
+                                        <span class="sha">#3c0291c</span>
+                                        <span class="message">Merge branch 'main' into add-webserver</span>
                                     </div>
                                 </div>
                             </section>
@@ -2438,14 +2438,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">scr-autopilot/scr-autopilot-website</span>
+                      Pushed 1 commit in <span class="repo">scr-autopilot/scr-autopilot</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">xyz</span></div>
+                                    <div>on branch <span class="code">add-webserver</span></div>
                                     <div class="commit">
-                                        <span class="sha">#ed77b61</span>
-                                        <span class="message">Create ahksetup.html</span>
+                                        <span class="sha">#67ea7d2</span>
+                                        <span class="message">Resolve even more conflicts</span>
                                     </div>
                                 </div>
                             </section>
@@ -2457,14 +2457,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">scr-autopilot/scr-autopilot-website</span>
+                      Pushed 1 commit in <span class="repo">scr-autopilot/scr-autopilot</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">xyz</span></div>
+                                    <div>on branch <span class="code">add-webserver</span></div>
                                     <div class="commit">
-                                        <span class="sha">#948cb92</span>
-                                        <span class="message">Update 404.html</span>
+                                        <span class="sha">#96279e7</span>
+                                        <span class="message">Resolve conflicts</span>
                                     </div>
                                 </div>
                             </section>
@@ -2476,14 +2476,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">scr-autopilot/scr-autopilot-website</span>
+                      Pushed 1 commit in <span class="repo">scr-autopilot/scr-autopilot</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">xyz</span></div>
+                                    <div>on branch <span class="code">add-webserver</span></div>
                                     <div class="commit">
-                                        <span class="sha">#cf6f8c1</span>
-                                        <span class="message">Update 404.html</span>
+                                        <span class="sha">#e600faa</span>
+                                        <span class="message">Working webserver</span>
                                     </div>
                                 </div>
                             </section>
@@ -2493,7 +2493,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 19 Jul 2021 18:13:39 (timezone Europe/Budapest) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 19 Jul 2021 19:18:24 (timezone Europe/Budapest) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
