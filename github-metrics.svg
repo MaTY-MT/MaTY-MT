@@ -2237,7 +2237,7 @@
                                     </div>
                                 </div>
                                 <div class="field description">
-                  Detection Script to help identify why your PC isn't Windows 11  Release Ready
+                  Detection Script to help identify why your PC is not Windows 11  Release Ready
                 </div>
                                 <div class="field infos">
                                     <div class="language">
@@ -2522,7 +2522,7 @@ Add webserver to remotely control the AP</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Wed, 21 Jul 2021 18:14:07 (timezone Europe/Budapest) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 21 Jul 2021 19:19:45 (timezone Europe/Budapest) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
