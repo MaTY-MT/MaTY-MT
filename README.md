@@ -8,7 +8,7 @@
 
 #### 📚 [My projects](https://mmaty.eu/projects)
 
-#### 📫 You can reach me out on maty-mt@protonmail.com or on Discord as `MaTY#8997`
+#### 📫 You can reach me out on maty-mt@protonmail.com
 
 #### 😄 Pronouns: `He/him`
 
