@@ -6,7 +6,7 @@
 
 #### 🌱 I’m currently learning Python
 
-#### 📚 [My projects](https://mmaty.eu/projects)
+#### 📚 [My projects](https://maty-mt.github.io/projects)
 
 #### 📫 You can reach me out on maty-mt@protonmail.com
 
