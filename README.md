@@ -6,6 +6,3 @@
 
 #### 😄 Pronouns: `He/him`
 
-![Metrics](https://github.com/MaTY-MT/MaTY-MT/blob/main/github-metrics.svg)
-
-
